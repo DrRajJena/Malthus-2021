@@ -1,1 +1,1 @@
-Text version of the cincial decision trees are available here
+Text version of the clinical decision trees are available here
